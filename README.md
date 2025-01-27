@@ -9,11 +9,10 @@ Hardware:
 
 Software:
 - [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html) (V1.15.0, do not use version V2.16.0 due to a limitation)
-- Terminal Software like [TeraTerm](https://teratermproject.github.io/index-en.html)
 
 ## Materials Provided
 
-- STM32H5 USB DFU HID Project (source and binary)
+- STM32H5 USB DFU HID Project
 
 ## Setup
 
@@ -23,7 +22,7 @@ Connect STLINK USB conenctor of the Nucleo board to the Host.
 3) Connect user USB connector of the Nucleo board to the Host.
 4) Reset the STM32H5 on the Nucleo board by pressing reset Button (black button).
 
-Please check the [knowledge base article](https:// to-be-updated) for more details.
+Please check the [knowledge base article](https://community.st.com/t5/tkb/workflowpage/tkb-id/stm32-mcus-knowledge-base/article-id/1254?prePageCrumb=TkbUserContributedArticlesPage) for more details.
 
 ## Troubleshooting
 Refer to the knowledge base article for better details.
