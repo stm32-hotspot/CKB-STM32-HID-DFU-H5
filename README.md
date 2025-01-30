@@ -22,7 +22,7 @@ Connect STLINK USB conenctor of the Nucleo board to the Host.
 3) Connect user USB connector of the Nucleo board to the Host.
 4) Reset the STM32H5 on the Nucleo board by pressing reset Button (black button).
 
-Please check the [knowledge base article](https://community.st.com/t5/tkb/workflowpage/tkb-id/stm32-mcus-knowledge-base/article-id/1254?prePageCrumb=TkbUserContributedArticlesPage) for more details.
+Please check the [knowledge base article](https://community.st.com/t5/stm32-mcus/how-to-implement-the-usb-device-composite-class-usb-dfu-hid/ta-p/759762) for more details.
 
 ## Troubleshooting
 Refer to the knowledge base article for better details.
